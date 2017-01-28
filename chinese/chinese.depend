@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485600381 source:/home/xuy/桌面/code/c/chinese/main.cpp
+	<iostream>
+	<stdio.h>
+
