@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485599324 source:/home/xuy/桌面/code/c/hiLUCY/main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<stdlib.h>
+
